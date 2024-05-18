@@ -7,13 +7,13 @@ from rich.console import Console
 from pyfiglet import figlet_format
 from termcolor import colored
 from time import sleep 
-from instainfo import instainfo
-from iplook import iplook
-from clear import clear
-from numscan import numscan
-from ketik import ketik
-from ip import ip
-from cipher import cyb
+from Scripts.instainfo import instainfo
+from Scripts.iplook import iplook
+from Scripts.clear import clear
+from Scripts.numscan import numscan
+from Scripts.ketik import ketik
+from Scripts.ip import ip
+from Scripts.cipher import cyb
 
 cyan = ("\033[1m\033[36m")
 mawar = ("\033[31;1m")
